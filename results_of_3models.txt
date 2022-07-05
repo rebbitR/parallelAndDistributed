@@ -1,0 +1,45 @@
+
+
+image name: object0.png
+-model: category_vgg16 -class: drone
+
+-model: binary_vgg16 -class: no
+
+-model: resnet_50 -class: airplane
+
+
+
+image name: object.png
+-model: binary_vgg16 -class: no
+
+-model: category_vgg16 -class: drone
+
+-model: resnet_50 -class: airplane
+
+
+
+image name: object1.png
+-model: binary_vgg16 -class: no
+
+-model: category_vgg16 -class: drone
+
+-model: resnet_50 -class: airplane
+
+
+
+image name: object.png
+-model: binary_vgg16 -class: no
+
+-model: category_vgg16 -class: drone
+
+-model: resnet_50 -class: airplane
+
+
+
+image name: object.png
+-model: category_vgg16 -class: drone
+
+-model: binary_vgg16 -class: no
+
+-model: resnet_50 -class: airplane
+

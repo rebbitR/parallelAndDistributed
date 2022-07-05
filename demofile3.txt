@@ -1,0 +1,15 @@
+
+
+image name: object.png
+-model: binary_vgg16 -class: no
+-model: category_vgg16 -class: drone
+
+
+image name: object.png
+-model: binary_vgg16 -class: no
+-model: category_vgg16 -class: drone
+
+
+image name: object.png
+-model: category_vgg16 -class: drone
+-model: binary_vgg16 -class: no
